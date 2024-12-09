@@ -6,5 +6,5 @@ https://drive.google.com/file/d/1I8lkvryzZDM1kjNZUtacLl25K2eVgOhp/view
 This project is heavily inspired by
 [Coobiw
 /
-MPP-LLaVA](https://github.com/username/repo-name)
+MPP-LLaVA](https://github.com/Coobiw/MPP-LLaVA)
 The original repository provided the foundation for this work. 
