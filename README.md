@@ -1,6 +1,7 @@
 # NLP_TERMPOR
 In case of emergency, after downloading the file from the cloud disk, install and run the file according to Tutorial.docx, github will be updated later
-https://drive.google.com/file/d/1soLEogL2tLV69_k1sAfEOdewzv0uOqIp/view?usp=sharing
+[https://drive.google.com/file/d/1soLEogL2tLV69_k1sAfEOdewzv0uOqIp/view?usp=sharing](https://drive.google.com/file/d/1uo8Po5U92ZZh9qYXmf2o2obE2r1a-t5F/view?usp=sharing)
+
 ## Credits
 
 This project is heavily inspired by
